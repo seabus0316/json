@@ -1,0 +1,123 @@
+...
+"8": {
+            "name": "Airbus a380-800",
+            "liveries": [
+                {
+                    "name": "EVA Air",                                                          // Name of the livery
+                    "texture": [
+                        "htttps://geo-fs.com/models/aircraft/premium/a380/specular.jpg",        // This is the link to the Specular shader
+                        "https://ibb.co/YP9PT4B"         // This is the link to the Texture
+                    ],
+                    "credits": "SeaBus"                                                          // The creator of the livery mostly a discord or github nickname
+                }
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+…
+...
+"9": {
+            "name": "Boeing 787-9",
+            "liveries": [
+                {
+                    "name": "EVA Air",                                                          // Name of the livery
+                    "texture": [
+                        "htttps://geo-fs.com/models/aircraft/premium/a380/specular.jpg",        // This is the link to the Specular shader
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b787-9/eva.png"         // This is the link to the Texture
+                    ],
+                    "credits": "SeaBus"                                                          // The creator of the livery mostly a discord or github nickname
+                }
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+…
+ {
+                    "name": "EVA Air (retro livery)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/eva744old.jpg"
+                    ],
+                    "credits": "SeaBus"
+                },
+ {
+                    "name": "Eva Air",
+                    "texture": [
+                        "/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_45.jpg"
+                    ]
+               {
+                    "name": "EVA Air (planned livery)",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/evaplan.jpg"
+                    ],
+                    "credits": "SeaBus"
+                },
+{
+                    "name": "EVA Air (new livery)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/eva.jpg"
+                    ]
+                },
+{
+                    "name": "EVA Air (old logo)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/eva1.png"
+                    ]
+                },
+                {
+                    "name": "EVA Air (new logo)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/eva2.png"
+                    ]
+                },
+{
+                    "name": "EVA Air (Star Alliance livery)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/evastar.png"
+                    ]
+                },
+{
+                    "name": "EVA Air (Sanrio Family livery)",
+                    "credits": "luca b",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/Hello_Kitty_777-300ER.png"
+                    ]
+                },
+{
+                    "name": "EVA Air Cargo",
+                    "credits": "x64debug",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/EVACARGO.jpg"
+                    ]
+                },
+{
+                    "name": "EVA AIR",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a321-211/EVA AIR A321.png"
+                    ],
+                    "credits": "luca b"
+                },
+{
+                    "name": "EVA Air Cargo",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/EVACargo7478i.png"
+                    ],
+                    "credits": "technerdrylann"
+                },
+{
+                    "name": "EVA Air (retro livery)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/eva744old.jpg"
+                    ],
+                    "credits": "SeaBus"
+                },
