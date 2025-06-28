@@ -1,7 +1,7 @@
 {
     "name": "EVA virtual Airways",
     "color": "#00A64F",
-    "bgcolor": "#F0451C",
+    "bgcolor": "#ffffff",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
