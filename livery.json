@@ -75,7 +75,7 @@
                     "name": "EVA Air",
                     "texture": [
                         "htttps://geo-fs.com/models/aircraft/premium/a380/specular.jpg",
-                        "https://i.ibb.co/2W2WY03/A380.png"
+                        "'https://i.ibb.co/HLYbRR3G/A380.png'"
                     ],
                     "credits": "SeaBus"
                 }
@@ -145,7 +145,7 @@
             "liveries": [
             ],
             "labels": [
-                "Texture"
+                "https://i.ibb.co/bz4SXRP/Concorde.jpg"
             ]
         },
         "21": {
@@ -262,7 +262,7 @@
             "liveries": [
             ],
             "labels": [
-                "Texture"
+                "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/UniAirATRFinal.png"
             ]
         },
         "2973": {
@@ -270,7 +270,7 @@
             "liveries": [
             ],
             "labels": [
-                "Texture"
+                "https://i.ibb.co/fYFLXc2/A350-1000.png"
             ]
         },
         "3575": {
@@ -327,7 +327,7 @@
                 {
                     "name": "Eva Air",
                     "texture": [
-                        "/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_45.jpg"
+                        "https://i.ibb.co/HrNTrgC/787-10.jpg"
                     ]
                 }
             ],
@@ -588,7 +588,7 @@
             "liveries": [
             ],
             "labels": [
-                "Texture"
+                "https://i.ibb.co/VDzhLLz/Learjet-45-XR.png"
             ]
         },
         "5": {
@@ -621,7 +621,15 @@
             "liveries": [
             ],
             "labels": [
-                "Texture"
+                "https://i.ibb.co/JzHr0nV/A340-300.png"
+            ]
+        },
+        "2952": {
+            "name": "Airbus a340-300",
+            "liveries": [
+            ],
+            "labels": [
+                "https://i.ibb.co/ZMzQ2xP/A340-300-F.png"
             ]
         },
         "2856": {
