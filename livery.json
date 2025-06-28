@@ -624,14 +624,6 @@
                 "https://i.ibb.co/JzHr0nV/A340-300.png"
             ]
         },
-        "2952": {
-            "name": "Airbus a340-300",
-            "liveries": [
-            ],
-            "labels": [
-                "https://i.ibb.co/ZMzQ2xP/A340-300-F.png"
-            ]
-        },
         "2856": {
             "name": "Airbus a330-200",
             "liveries": [
@@ -653,7 +645,7 @@
             "liveries": [
             ],
             "labels": [
-                "Texture"
+                "https://i.ibb.co/0MXTnKT/A318.png"
             ]
         },
         "2864": {
