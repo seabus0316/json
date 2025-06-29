@@ -31,12 +31,21 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
+                {
+                    "name": "Eva Air",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/737_700/normal.jpg",
+                        "https://www.geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
+                        "https://i.ibb.co/k2wf06xC/737-700.jpg"
+                    ]
+                }
             ],
             "labels": [
-                "https://www.geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
-                "https://i.ibb.co/k2wf06xC/737-700.jpg"
+                "Normal map",
+                "Specular shader",
+                "Texture"
             ]
-        },
+        }
         "6": {
             "name": "de Havilland Canada DHC6 Twin Otter",
             "liveries": [
@@ -75,7 +84,7 @@
                     "name": "EVA Air",
                     "texture": [
                         "htttps://geo-fs.com/models/aircraft/premium/a380/specular.jpg",
-                        "'https://i.ibb.co/HLYbRR3G/A380.png'"
+                        "https://i.ibb.co/HLYbRR3G/A380.png'"
                     ],
                     "credits": "SeaBus"
                 }
