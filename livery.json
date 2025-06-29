@@ -32,7 +32,7 @@
             "name": "Boeing b737-700",
             "liveries": [
                 {
-                    "name": "Eva Air",
+                    "name": "EVA Air",
                     "texture": [
                         "https://www.geo-fs.com/models/aircraft/premium/737_700/normal.jpg",
                         "https://www.geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
