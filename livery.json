@@ -163,9 +163,16 @@
         },
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "EVA Air",
+                    "texture": [
+                        "https://i.ibb.co/bz4SXRP/Concorde.jpg"
+                    ]
+                }
+            ],
             "labels": [
-                "https://i.ibb.co/bz4SXRP/Concorde.jpg"
+                "Texture"
             ]
         },
         "21": {
@@ -431,7 +438,7 @@
             "name": "Airbus a350-1000",
             "liveries": [],
             "labels": [
-                "https://i.ibb.co/fYFLXc2/A350-1000.png"
+                "https://i.ibb.co/5hcg4b46/image.png"
             ]
         },
         "3054": {
