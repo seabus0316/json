@@ -94,7 +94,7 @@
                     "name": "EVA Air",
                     "texture": [
                         "htttps://geo-fs.com/models/aircraft/premium/a380/specular.jpg",
-                        "https://i.ibb.co/HLYbRR3G/A380.png'"
+                        "https://i.ibb.co/HLYbRR3G/A380.png"
                     ],
                     "credits": "SeaBus"
                 }
@@ -125,11 +125,15 @@
         },
         "13": {
             "name": "de Havilland Canada DHC2 Beaver",
-            "liveries": [],
-            "labels": [
-                "Texture"
-            ]
-        },
+            "liveries": [
+                {
+                    "name": "EVA Air",
+                    "texture": [
+                        "https://i.ibb.co/0pnBwwc9/DHC-2.png",
+                    ],
+                    "credits": "SeaBus"
+                }
+            ],
         "14": {
             "name": "Colomban MC-15 Cri-cri",
             "liveries": [],
