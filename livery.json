@@ -54,7 +54,15 @@
         },
         "6": {
             "name": "de Havilland Canada DHC6 Twin Otter",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "EVA Air",
+                    "texture": [
+                        "https://i.ibb.co/0pnBwwc9/DHC-2.png"
+                    ],
+                    "credits": "SeaBus"
+                }
+            ],
             "labels": [
                 "Texture",
                 "Texture Left",
@@ -93,13 +101,15 @@
                 {
                     "name": "EVA Air",
                     "texture": [
-                        "htttps://geo-fs.com/models/aircraft/premium/a380/specular.jpg",
+                        "https://geo-fs.com/models/aircraft/premium/a380/normal.jpg",
+                        "https://geo-fs.com/models/aircraft/premium/a380/specular.jpg",
                         "https://i.ibb.co/HLYbRR3G/A380.png'"
                     ],
                     "credits": "SeaBus"
                 }
             ],
             "labels": [
+                "Normal map",
                 "Specular shader",
                 "Texture"
             ]
@@ -117,7 +127,7 @@
             "name": "Pilatus PC-7 Mk-I",
             "liveries": [],
             "labels": [
-                "Normal map",
+                 "Normal map",
                 "Specular shader",
                 "Texture",
                 "Propwash"
@@ -129,7 +139,7 @@
                 {
                     "name": "EVA Air",
                     "texture": [
-                        "https://i.ibb.co/0pnBwwc9/DHC-2.png",
+                        "https://i.ibb.co/0pnBwwc9/DHC-2.png"
                     ],
                     "credits": "SeaBus"
                 }
@@ -662,4 +672,5 @@
             ]
         }
     }
+}
 }
