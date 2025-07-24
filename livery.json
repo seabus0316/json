@@ -643,24 +643,35 @@
             ]
         },
         "5193": {
-
-}
-                    "name": "EVA Air Cargo",
+            "name": "Boeing b747-8I",
+            "liveries": [
+                {"name": "EVA Air Cargo",
                     "texture": [
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/EVACargo7478i.png"
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/EVACargo7478i.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
                     ],
                     "credits": "technerdrylann"
                 },
                 {
                     "name": "EVA Air (retro livery)",
                     "texture": [
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/eva744old.jpg"
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/eva744old.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+                    ],
+                    "credits": "SeaBus"
+                },
+                {
+                    "name": "EVA Air",
+                    "texture": [
+                        "https://i.ibb.co/675SFVC1/image.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
                     ],
                     "credits": "SeaBus"
                 }
             ],
             "labels": [
-                "Texture"
+                "Texture",
+                "Wing texture"
             ]
         }
     }
