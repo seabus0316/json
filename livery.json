@@ -644,13 +644,6 @@
         },
         "5193": {
 
-                  "name": "EVA AIR",
-                  "credits": "SeaBus",
-                  "texture": [
-    "https://i.ibb.co/V0v6t1cY/EVACargo7478i.jpg",
-    "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
-  ],
-  "materials": {}
 }
                     "name": "EVA Air Cargo",
                     "texture": [
